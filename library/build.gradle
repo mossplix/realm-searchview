@@ -20,5 +20,5 @@ android {
 }
 
 dependencies {
-    compile 'com.github.thorbenprimke:realm-recyclerview:0.9.19'
+    compile 'com.github.mossplix:realm-recyclerview:0.9.19'
 }
